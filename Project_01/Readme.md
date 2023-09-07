@@ -6,5 +6,5 @@ se fueron creando. Con el tiempo se crearon y mejoraron la cantidad de compuerta
 
 
 DESARROLLLO
-![Esta es una imagen de ejemplo](![image]([https://github.com/Jaider1727/computer_architecture/assets/132866666/a6fd4f74-a44c-4ea2-b84a-f991b11855de](https://tinytapeout.com/images/logic_gates/gates.png)https://tinytapeout.com/images/logic_gates/gates.png)
-)
+
+![compuertas_usadas](https://github.com/Jaider1727/computer_architecture/assets/132866666/c8f7a1c9-8548-4bf6-b69d-c5e7e04b1dbb)
