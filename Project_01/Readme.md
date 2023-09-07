@@ -26,5 +26,5 @@ La parte superior (CHIP) representa las entradas y salidas del chip, y la funci�
 CONCLUSIÓN
 
 1*Este programa es muy útil ya que podemos crear compuertas más complejas, reutilizando compuertas ya creadas. 
-2* 
+2*El programa que se usa en el curso es bastante intuitivo y fácil de aprender, por lo que no será problema crear cosas nuevas. 
 
