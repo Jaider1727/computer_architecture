@@ -7,5 +7,7 @@ se fueron creando. Con el tiempo se crearon y mejoraron la cantidad de compuerta
 
 DESARROLLLO
 
-
+Estas fueron las compuertas que se usaron junto con su tabla de verdad: 
 ![1_Compuertas_logicas_digitales](https://github.com/Jaider1727/computer_architecture/assets/132866666/6eb6cf56-4c73-4299-9878-2a276f4b5999)
+
+Se intentaron implementar en HDL mediante la siguiente sintaxis: 
