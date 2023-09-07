@@ -7,4 +7,4 @@ se fueron creando. Con el tiempo se crearon y mejoraron la cantidad de compuerta
 
 DESARROLLLO
 
-![1200px-NAND_ANSI_Labelled svg](https://github.com/Jaider1727/computer_architecture/assets/132866666/9d3ce5aa-2d78-41fd-a8cf-e5742a3ccba1)
+/img/compuertas.png
