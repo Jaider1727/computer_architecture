@@ -1,4 +1,4 @@
-# Computer_Architectur
+# Computer_Architecture
 
 Integrants:
 Jaider Daniel Gonzalez Ariza - 2205563
