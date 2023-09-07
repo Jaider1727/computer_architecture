@@ -7,4 +7,5 @@ se fueron creando. Con el tiempo se crearon y mejoraron la cantidad de compuerta
 
 DESARROLLLO
 
-![compuertas_usadas](https://github.com/Jaider1727/computer_architecture/assets/132866666/c8f7a1c9-8548-4bf6-b69d-c5e7e04b1dbb)
+
+![1_Compuertas_logicas_digitales](https://github.com/Jaider1727/computer_architecture/assets/132866666/6eb6cf56-4c73-4299-9878-2a276f4b5999)
