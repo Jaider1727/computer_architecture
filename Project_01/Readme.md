@@ -6,4 +6,4 @@ se fueron creando. Con el tiempo se crearon y mejoraron la cantidad de compuerta
 
 
 DESARROLLLO
-./img/compuertas_usadas.png
+img/compuertas_usadas.png
