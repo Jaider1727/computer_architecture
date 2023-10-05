@@ -18,4 +18,4 @@ Un chip RAM es un componente de hardware del ordenador que se utiliza para almac
 
 5. PC
 Es el que se encarga de llevar la cuenta de las instrucciones que se van ejecutando de un programa.
-<img src="PC.png" width="300">
+<img src="PC.png" width="100">
