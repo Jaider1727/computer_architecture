@@ -4,7 +4,7 @@ Este proyecto se centro en la construccion de una memoria RAM la cual es fundame
 #Desarrollo
 1. Bit
 Un bit es, entonces, la unidad mínima de información que emplea la informática, cuyos sistemas están todos sustentados en dicho código binario. Cada bit de información representa un valor específico: 1 ó 0, pero combinando distintos bits puede llegar a obtenerse muchas más combinaciones
-![image](https://github.com/Jaider1727/computer_architecture/assets/132866666/5113332c-b181-418d-9351-77647b903d39)width="200" height="200"
+![image](https://github.com/Jaider1727/computer_architecture/assets/132866666/5113332c-b181-418d-9351-77647b903d39)
 
 3. Register
 Un registro es un circuito digital con dos funciones  básicas:  almacenamiento    de    datos    y  movimiento  de  datos.  La  capacidad de almacenamiento de un registro le convierte en un tipo   importante   de   dispositivo   de   memoria.   Tenemos   dos   conceptos   importantes: capacidad   de  almacenamiento   y   capacidad   de   desplazamiento.   La      capacidad      de  almacenamiento de un registro es el número total de bits (1s y 0s) de un dato digital que puede  contener.  Mientras  que  la    capacidad    de    desplazamiento    de    un    registro    permite    el movimiento  de los datos de una etapa  a otra dentro del registro.
