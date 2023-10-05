@@ -1,7 +1,7 @@
-#Logica Secuencial
+# Logica Secuencial
 Este proyecto se centro en la construccion de una memoria RAM la cual es fundamental para la CPU (Unidad de procesamiento aritmetico-logica (ALU)). La RAM es la pieza fundamental en la arquitectura de las computadoras la cual permite almacenar datos de manera temporal. Con base a esto se crearon una serie de chips que formaron la base de la memoria RAM.
 
-#Desarrollo
+# Desarrollo
 1. Bit
 Un bit es, entonces, la unidad mínima de información que emplea la informática, cuyos sistemas están todos sustentados en dicho código binario. Cada bit de información representa un valor específico: 1 ó 0, pero combinando distintos bits puede llegar a obtenerse muchas más combinaciones
 
